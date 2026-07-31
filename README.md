@@ -2,7 +2,7 @@
 
 API backend de la plateforme HelpDesk intelligente, développée dans le cadre d'un Projet de Fin d'Études (PFE) à l'ISIMA, Université de Monastir, en collaboration avec **Sindibad Group**.
 
-La plateforme est actuellement déployée en production et utilisée par l'entreprise à l'adresse [helpdesk.4d-gile.com](https://helpdesk.4d-gile.com).
+La plateforme est actuellement déployée en production et utilisée par l'entreprise 
 
 Frontend : [helpdesk-pfe-frontend](https://github.com/AmnaKrifa/helpdesk-pfe-frontend)
 
